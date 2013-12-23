@@ -1,7 +1,7 @@
 PhotoPicker
 ===========
 
-This is a very basic app for the iPhone which demonstrates the use of the collection view and picker view.
+This is a very basic app for the iPhone which demonstrates the use of collection view and picker view.
 
 ###Screenshots:
 

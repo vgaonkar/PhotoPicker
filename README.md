@@ -7,8 +7,8 @@ This is a very basic app for the iPhone which demonstrates the use of the collec
 
 Screenshots:
 
-!(https://raw.github.com/vgaonkar/PhotoPicker/master/collectionView.png)
-!(https://raw.github.com/vgaonkar/PhotoPicker/master/pickerView.png)
+![](https://raw.github.com/vgaonkar/PhotoPicker/master/collectionView.png)
+![](https://raw.github.com/vgaonkar/PhotoPicker/master/pickerView.png)
 
 Issues:
 - Works with iOS 6 but hasn't been tested for other versions.
